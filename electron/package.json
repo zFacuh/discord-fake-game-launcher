@@ -52,7 +52,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "Jeardey",
+        "owner": "zFacuh",
         "repo": "discord-fake-game-launcher"
       }
     ],
